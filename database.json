@@ -1,0 +1,120 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Felipe",
+      "breed": "Labradoodle",
+      "customerId": 2,
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Terrell",
+      "breed": "Schnoodle",
+      "customerId": 3,
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "name": "Kamren",
+      "breed": "Bolonoodle",
+      "customerId": 1,
+      "locationId": 1
+    },
+    {
+      "id": 5,
+      "name": "Ken",
+      "breed": "Goldendoodle",
+      "customerId": 2,
+      "locationId": 2
+    },
+    {
+      "name": "Lil Guy",
+      "breed": "Tuxedo Tabby",
+      "locationId": 2,
+      "customerId": 2,
+      "id": 6
+    },
+    {
+      "name": "Dolly",
+      "breed": "Gray Tabby",
+      "locationId": 2,
+      "customerId": 3,
+      "id": 7
+    },
+    {
+      "name": "Jimmy John",
+      "breed": "Orange Tabby",
+      "locationId": 1,
+      "customerId": 1,
+      "id": 8
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "email": "hannah@hall.com",
+      "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Zoila Cummerata",
+      "email": "zoila@cummerata.com",
+      "address": "830 Modesta Burg"
+    },
+    {
+      "id": 3,
+      "name": "Tristian Nikolaus",
+      "email": "tristian@nikolaus.com",
+      "address": "0307 Lurline Canyon"
+    },
+    {
+      "name": "Neil MacLean",
+      "email": "neil@maclean.com",
+      "address": "123 Main St",
+      "id": 4
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jeremy Bakker",
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Raquel Roberts",
+      "locationId": 1
+    },
+    {
+      "name": "Johnny James",
+      "locationId": 2,
+      "id": 3
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    },
+    {
+      "name": "Nashville East",
+      "address": " 1901 Gallatin Pike",
+      "id": 3
+    }
+  ]
+}
