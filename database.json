@@ -1,18 +1,11 @@
 {
   "animals": [
     {
-      "id": 1,
-      "name": "Doodles",
-      "breed": "Poodle",
-      "customerId": 1,
-      "locationId": 2
-    },
-    {
       "id": 2,
-      "name": "Felipe",
-      "breed": "Labradoodle",
-      "customerId": 2,
-      "locationId": 1
+      "name": "Gwen",
+      "breed": "Golden Retriever",
+      "locationId": 3,
+      "customerId": 4
     },
     {
       "id": 3,
@@ -43,18 +36,18 @@
       "id": 6
     },
     {
-      "name": "Dolly",
-      "breed": "Gray Tabby",
-      "locationId": 2,
-      "customerId": 3,
-      "id": 7
-    },
-    {
+      "id": 8,
       "name": "Jimmy John",
       "breed": "Orange Tabby",
-      "locationId": 1,
-      "customerId": 1,
-      "id": 8
+      "locationId": 3,
+      "customerId": 5
+    },
+    {
+      "name": "The Beast",
+      "breed": "Hellspawn",
+      "locationId": 4,
+      "customerId": 6,
+      "id": 9
     }
   ],
   "customers": [
@@ -81,12 +74,24 @@
       "email": "neil@maclean.com",
       "address": "123 Main St",
       "id": 4
+    },
+    {
+      "name": "Dave Smith",
+      "email": "dave@smith.com",
+      "address": "1527 Stockton St",
+      "id": 5
+    },
+    {
+      "name": "Freya Potempa",
+      "email": "freya@potempa.com",
+      "address": "4646 Bourbon St",
+      "id": 6
     }
   ],
   "employees": [
     {
       "id": 1,
-      "name": "Jeremy Bakker",
+      "name": "James Baxter",
       "locationId": 2
     },
     {
@@ -98,6 +103,16 @@
       "name": "Johnny James",
       "locationId": 2,
       "id": 3
+    },
+    {
+      "name": "Wesley Hughes",
+      "locationId": 3,
+      "id": 4
+    },
+    {
+      "name": "Hannah Mueller",
+      "locationId": 4,
+      "id": 5
     }
   ],
   "locations": [
@@ -115,6 +130,11 @@
       "name": "Nashville East",
       "address": " 1901 Gallatin Pike",
       "id": 3
+    },
+    {
+      "name": "Nashville West",
+      "address": "3233 Charlotte Pk",
+      "id": 4
     }
   ]
 }
